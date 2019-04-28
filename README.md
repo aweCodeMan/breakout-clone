@@ -1,5 +1,5 @@
-# Breakout Godot clone
+# Breakout clone
 
 This is a quick Breakout clone done with the [Godot engine](https://godotengine.org/).
 
-[[https://github.com/awecodeman/breakout-clone/blob/master//screenshot.jpg|alt=Breakout clone screenshot]]
+![Breakout clone screenshot](https://github.com/aweCodeMan/breakout-clone/blob/master/screenshot.jpg?raw=true)
